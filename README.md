@@ -10,3 +10,5 @@ implementing the SMS Message part of the system, although you are encouraged to 
 support the future addition of other specific Message types.
 
 Includes: OOP structure, interfaces, unit testing, read / write CSV data, threads
+
+Project name: p3, run from MessageServer.java
